@@ -52,6 +52,7 @@ footer {
 .footer-h2 {
   font-size: medium;
 }
+
 .footer-nav .footer-list {
   display: flex;
   flex-direction: row;
